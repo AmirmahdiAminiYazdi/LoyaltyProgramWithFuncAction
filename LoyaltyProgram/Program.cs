@@ -34,7 +34,7 @@ class program
         loyaltyProgram.ProcessTransaction(100, "referral");  // Referral action
         loyaltyProgram.ProcessTransaction(30, "review");     // Review action
         loyaltyProgram.ProcessTransaction(1000, "chance");
-            
+
 
 
     }
