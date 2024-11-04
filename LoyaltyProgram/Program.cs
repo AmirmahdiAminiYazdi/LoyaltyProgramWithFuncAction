@@ -1,7 +1,7 @@
 ﻿using LoyaltyProgram;
 
 
-class program
+class Program
 {
     static void Main()
     {
